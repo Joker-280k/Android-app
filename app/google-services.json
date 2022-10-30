@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287737242734",
+    "project_id": "android9-3-a1110",
+    "storage_bucket": "android9-3-a1110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287737242734:android:f76878651eb95e6f0a327f",
+        "android_client_info": {
+          "package_name": "com.fernando.app193"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287737242734-0o4vsa3qkpcr03ihcm8opjvanrl367s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIILwKEMInb08bW8jO2wuj_Q7UqCGJJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287737242734-0o4vsa3qkpcr03ihcm8opjvanrl367s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
